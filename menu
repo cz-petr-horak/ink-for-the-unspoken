@@ -1,0 +1,9 @@
+<nav>
+  <ul class="menu">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="your-request.html">Your Request</a></li>
+    <li><a href="terms-and-ethos.html">Terms and Ethos</a></li>
+    <li><a href="more-gift-options.html">More Gift Options</a></li>
+    <li><a href="examples.html">Examples</a></li>
+  </ul>
+</nav>
